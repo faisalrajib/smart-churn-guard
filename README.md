@@ -21,7 +21,7 @@
 ### Quick Start
 ```bash
 # 1. Clone & authenticate
-git clone https://github.com/yourname/smart-churn-guard.git
+git clone https://github.com/faisalrajib/smart-churn-guard.git
 gcloud auth login
 
 # 2. Deploy everything with Terraform
